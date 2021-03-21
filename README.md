@@ -1,4 +1,4 @@
-# Hackintosh-OptiPlex-9020M
+# Hackintosh-Dell-OptiPlex-9020M
 
 This is the Hackintosh EFI Folder for Dell OptiPlex 9020 Micro. The configuration settings support macOS Big Sur 11.2.3 with resolution up to 3440 x 1440. My CPU is a Mobile i7-4960HQ modified from FCBGA 1364 to LGA 1150
 You will have to **generate a new serial and SmUUID** before login to your iCloud account.
